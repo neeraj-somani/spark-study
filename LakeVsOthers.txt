@@ -1,0 +1,19 @@
+Data warehouse , data lake, data lakehouse, delta lake: what are they and what to choose
+
+Data warehouse
+Made popular by Bill Inmom in 1980 as the integrated place to store data supporting management decisions. Data is saved in tables and queried with the SQL language.
+Advantage: structure and usability.
+Disadvantage: only tables , no other data type. No access to files
+
+Data Lake
+Popular from 2010s with the arrival of cloud. It’s a virtually unlimited cheap storage space on the cloud. Data is saved in files.
+Advantage : flexibility : we can save tabular data, text, images , any format
+Disadvantage : no structure , low reliability
+
+Data Lakehouse
+Popular from 2020s, it uses the cheap storage of data lakes, and allows enforcing structure to some of the data.
+Data is stored in files (typically Parquet files for structured data)
+Advantage: flexibility and possibility to enforce a structure
+
+Delta Lake
+It’s one of the technologies we can use to build a lakehouse. It ensures ACID transactions (atomic, consistent, isolated, durable), fast retrieval of data, time travel, etc
