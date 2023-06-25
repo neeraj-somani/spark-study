@@ -14,3 +14,6 @@ The Lakehouse architecture lets teams work with the tools that make them product
 
 
 https://www.linkedin.com/feed/update/urn:li:activity:7078832245116915712/
+
+
+https://medium.com/@ssharma31/advanced-data-quality-constraints-using-databricks-delta-live-tables-2880ba8a9cd7
