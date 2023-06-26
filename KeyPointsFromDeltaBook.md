@@ -30,3 +30,6 @@ A data lakehouse is a combination of - Data Lake + Data Warehouse
   - Data as a product
   - Self-serve data infrastructure as a platform
   - Federated computational governance
+
+# Data lakes vs. data lakehouses vs. data warehouses
+![image](https://github.com/neeraj-somani/spark-study/assets/25622536/813f5c63-eca6-4121-af8b-e38257220f0a)
