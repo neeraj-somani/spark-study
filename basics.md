@@ -8,3 +8,4 @@ list of links for spark basics
 - spark key topics and [links](https://chat.openai.com/share/6e9b13ba-056e-4c81-ae30-50f53c8e6cde)
 - lots of good articles by [Deepak Rajak](https://www.linkedin.com/pulse/learn-apache-spark-databricks-step-guide-deepak-rajak/?trackingId=5KGNN2%2FpR3avYMtHE3YMQA%3D%3D)
 - basics of RDD [here](https://www.linkedin.com/pulse/anatomy-apache-sparks-rdd-deepak-rajak/)
+- basics of spark memory [here](https://www.linkedin.com/pulse/apache-spark-memory-management-deep-dive-deepak-rajak/)
