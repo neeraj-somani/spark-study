@@ -5,3 +5,4 @@ list of links for spark basics
 - Unity catalog vs Hive metastore (its legacy now)
   - how to migrate from legacy to Unity [here](https://docs.databricks.com/data-governance/unity-catalog/hive-metastore.html)
   - imp points [here](https://chat.openai.com/share/357cf4d2-4e5a-41de-8d0b-0ea261e47450)
+- spark key topics and [links](https://chat.openai.com/c/eae11c55-d2ca-4051-bc76-b790dd49b3bf)
