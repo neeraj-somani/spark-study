@@ -19,6 +19,10 @@ A data lakehouse is a combination of - Data Lake + Data Warehouse
  
 > Lakehouse tackles the fundamental issues that make data swamps out of data lakes. It adds ACID transactions to ensure consistency as multiple parties concurrently read or write data. It supports DW schema architectures like star/snowflake-schemas and provides robust governance and auditing mechanisms directly on the data lake. It also leverages various performance optimization techniques, such as caching, multi-dimensional clustering, and data skipping, using file statistics and data compaction to right-size the files enabling fast analytics. And it adds fine-grained security and auditing capabilities for data governance. By adding data management and performance optimizations to the open data lake, lakehouse can natively support BI and ML applications.
 
+# data lake basics [here](https://www.databricks.com/discover/data-lakes)
+
+- data lake best practices [here](https://www.databricks.com/discover/data-lakes/best-practices)
+
 - Does the Data Lakehouse have to be centralized or can it be decentralized into a Data Mesh?
   - No, organizations do not need to centralize all their data in one Lakehouse. Many organizations using the Lakehouse architecture take a decentralized approach to store and process data but take a centralized approach to security, governance, and discovery. Depending on organizational structure and business needs, we see a few common approaches:
   - Each business unit builds its own Lakehouse to capture its business' complete view – from product development to customer acquisition to customer service.
