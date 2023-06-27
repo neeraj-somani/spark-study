@@ -4,3 +4,4 @@
 
 ## few delta related spark settings
 - MERGE operations support generated columns when you set spark.databricks.delta.schema.autoMerge.enabled to true.
+- to set the delta.appendOnly = true property for all new Delta Lake tables created in a session -- SET spark.databricks.delta.properties.defaults.appendOnly = true
