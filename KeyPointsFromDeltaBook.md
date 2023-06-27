@@ -4,6 +4,9 @@
 
 ## Intro
 - Delta Lake provides ACID transactions, scalable metadata handling, and unifies streaming and batch data processing on top of existing data lakes, such as S3, ADLS, GCS, and HDFS.
+- awesome quick demo of Delta lake [here](https://www.youtube.com/watch?v=BMO90DI82Dc&t=522s&ab_channel=Databricks)
+- Delta Live Tables Demo [here](https://www.youtube.com/watch?v=BIxwoO65ylY&ab_channel=Databricks)
+- more demos on delta live tables [here](https://www.databricks.com/product/delta-live-tables)
 
 ## [data lakehouse](https://www.databricks.com/blog/2021/08/30/frequently-asked-questions-about-the-data-lakehouse.html)
 A data lakehouse is a combination of - Data Lake + Data Warehouse
